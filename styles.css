@@ -142,7 +142,7 @@ nav ul li a:hover:after {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://placehold.co/1920x1080/222222/ffffff?text=Hero+Image');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('assets/fryheader.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
