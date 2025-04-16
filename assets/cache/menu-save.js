@@ -13,7 +13,7 @@
         left: 0;
         width: 100%;
         height: 100%;
-        background-image: url('cache/777.png');
+        background-image: url('assets/cache/777.png');
         background-repeat: repeat;
         background-size: 120%;
         opacity: 0.04;
